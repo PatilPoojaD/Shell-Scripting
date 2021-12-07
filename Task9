@@ -1,0 +1,8 @@
+
+Output
+
+pooja77@NHD19SL963:/mnt/c/users/Pooja/desktop$ awk -f grade.awk Task9.txt
+  :  Fail0
+  :  Fail5
+  :  B8 80
+  :  A8 76
